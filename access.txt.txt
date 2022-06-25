@@ -1,0 +1,5 @@
+homepageurl: https://v.je/assignment/index.php
+adminuser: flamur@hotmail.com
+adminpass: newpass
+nonadminuser: emma@gmail.com
+nonadminpassword: pass
